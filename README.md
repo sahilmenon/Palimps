@@ -1,7 +1,7 @@
 
 # Palimps: The Endless Sentence Generator
 
-Palimps harnesses the power of Markov chains to create endless, evolving sentences from a diverse corpus of text files. Inspired by ancient manuscripts—palimpsests that bear traces of their past—this program layers words and phrases to generate text that is both unpredictable and evocative.
+Palimps harnesses the power of Markov chains to create endless, evolving sentences from a diverse corpus of text files. Inspired by ancient manuscripts, palimpsests that bear traces of their past, this program layers words and phrases to generate text that is both unpredictable and evocative.
 
 ## Table of Contents
 
